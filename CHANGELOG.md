@@ -1,5 +1,7 @@
 # Changelog
 
+## [v1.12.0](https://github.com/hiroakis/ghq/commits/v1.12.0) - 2026-11-06
+
 ## [v1.12.0](https://github.com/x-motemen/ghq/compare/v1.11.2...v1.12.0) - 2026-11-03
 
 - Reject unsafe repository URL paths by @hezhizhen in https://github.com/x-motemen/ghq/pull/557
